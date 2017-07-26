@@ -1,2 +1,2 @@
-# Greg-s_Game
+# Gregs_Game
 First person maze game
