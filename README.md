@@ -1,4 +1,4 @@
-# Gregs_Game
+# Awesome-Maze
 First person maze game
 
 # Licensing
